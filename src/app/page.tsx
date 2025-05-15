@@ -76,7 +76,7 @@ export default function Home() {
   
   return (
   <>
-    <h1 className="w-[80%] mx-auto text-center text-7xl my-10">Movie App</h1>
+    <h1 className="w-[80%] mx-auto text-center text-7xl my-10">Fantastic Movies and Where to Find Them</h1>
     <div className="w-[80%] mx-auto p-10">
     <div className="flex gap-2 mb-6">
       <input
